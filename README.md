@@ -21,7 +21,7 @@
 
 Hi there! I'm **Gunde Anantha Gowtham**, a passionate **Frontend Developer** currently diving deep into **Cybersecurity** and **Blockchain**. I love crafting clean UI, experimenting with performance optimizations, and learning how to secure modern applications.
 
-- 🎯 **Certified**: HackerRank Frontend Certification  
+ 
 - 🌱 **Learning**: Cybersecurity, Blockchain, and Cloud basics  
 - 💬 **Ask me about**: React, JavaScript, and UI design principles  
 - ⚡ **Fun fact**: I code faster when I play lo-fi beats in the background  
@@ -77,14 +77,14 @@ Hi there! I'm **Gunde Anantha Gowtham**, a passionate **Frontend Developer** cur
 
 - **Bachelor of Technology in Computer Science and Engineering**  
   KL University (2023 – 2027)  
-  Specialization: Cybersecurity & Blockchain
+  Specialization: Cybersecurity & Blockchain Technology
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/anantha-gowtham" target="_blank">
+  <a href="https://www.linkedin.com/in/anantha-gowtham-gunde-83b41b376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:ananthagunde@gmail.com" target="_blank">
